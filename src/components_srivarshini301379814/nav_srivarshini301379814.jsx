@@ -37,7 +37,7 @@ const nav = () => {
               SERVICES
             </a>
             <a href="/contact" className="rounded-full px-5 py-2 text-xl">
-              CONTACT
+              CONTACT ME
             </a>
           </div>
           <div className="ssm:block lg:hidden">
